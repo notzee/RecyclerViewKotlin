@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewKotlin</string>
+    <string name="anime_name">anime_name</string>
+    <string name="description">description</string>
+</resources>
